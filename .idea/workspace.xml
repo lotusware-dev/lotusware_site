@@ -2,283 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489d5996-06a6-4dc4-9a41-782646a94324" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/1-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/15.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/16.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/17.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/18.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/1800381.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/19.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/20-1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/20.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/5.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/6.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Cafe-Loyal-Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Coffe-cup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Daily-News-Folded-Mockup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Fabric-Bag-Mockup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Paper-Bag-packaging-Mockup-psd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Paper-Wrap-Wine-Bottle-Mockup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Space_Patterns_jpg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Square-Book.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/The-Faric-bag.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Vinyl-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/Wine-Package-Box-Mockup-vol-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/another-bag.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/arr_l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/arr_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/art2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/authentic-demo-image-130.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/bag1-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/bag1-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/bag1-end.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/bicycle-in-blue-room-PZHAAMS.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blanket-on-the-couch-PADZCQ9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/blog9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/book.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/book1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/book2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/book3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/brickdesign-carbone-seta-6x25-amb-living-ambient-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/business.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/business1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cafe-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cafe1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cafe2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cafe3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cafe4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cafe5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cb1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cb2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/cb3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/craft_bear.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/crew.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/f1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/f2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/f3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/f4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/f5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/g-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/gordon-theme.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/grange-pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/handz_lineart_final.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/hard_work2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/hardcore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/imagenes-de-Metallica-en-hd13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/isometric_words.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/l09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/logo_000.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/logo_fff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/m1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/m2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/m3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/moneybg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/np.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/office-932926_1920.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/onepageheader-1920x1255.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/pattern1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/pattern2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/port1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/pp-bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/pp-bag2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/prize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/room-with-navy-blue-armchair-P4556GF.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/royal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/sep.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/sig.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/signature.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/sorting.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/sprite-skin-nice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/start-up-business-team-PCC5YS5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/thats-all.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/the-book.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/two-lamps-in-a-room-P3ZFFFE.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/v1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/v2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/v3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/v4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/v5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/w1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/w3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/w4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/w5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/img/wine-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Documentation/Run Me.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/.idea/Gravity.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/account.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/checkout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/contacts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/bootstrap/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/contact-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/ion.rangeSlider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/ion.rangeSlider.skinNice.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/jquery.pagepiling.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/jquery.pagepiling.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/owl.carousel.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/about.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/account.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/blog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-10.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-11.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/post.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/service.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/page/shop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/remodal-default-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/remodal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/siliconfolio.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/tipso.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/vc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/wocommerce.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/woocommerce-layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/woocommerce-smallscreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/css/woocommerce.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/accounting.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/bootstrap.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/contact-form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/custom_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/gmap3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/html5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/imagesloaded.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/ion.rangeSlider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/isotope.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/jquery-migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/jquery-ui-touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.pagepiling.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.pagepiling.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.waitforimages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/mouse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/price-slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/remodal.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/tipso.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/vc_custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/js/widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/lightcase/lightcase.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/lightcase/lightcase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/framework/mailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/lost-password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-10.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-11.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-7.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-8.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item-9.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/portfolio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/post.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/service.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/shop-item.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Gravity/shop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -295,8 +19,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -325,8 +49,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -446,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1516833680891</updated>
       <workItem from="1516833682176" duration="222000" />
-      <workItem from="1516833921062" duration="1133000" />
+      <workItem from="1516833921062" duration="1521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1355000" />
+    <option name="totallyTimeSpent" value="1743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="107" y="25" width="1694" height="1251" extended-state="0" />
@@ -502,14 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/Gravity/service.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="634">
@@ -526,10 +242,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding />
         </state>
       </provider>
