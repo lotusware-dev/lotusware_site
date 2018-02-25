@@ -2,45 +2,51 @@ import React from 'react'
 import './Header.css'
 
 const Header = () => (
-  <header id="header" className="">
-
-    <div id="header-main">
-
-      <div className="container-fluid">
-
-                        <span id="navi-trigger">
-                            <span className="navi-trigger-text">
-                                <span className="navi-trigger-text-menu navi-trigger-text-inn">MENU</span>
-                                <span className="navi-trigger-text-close navi-trigger-text-inn">CLOSE</span>
-                            </span>
-                            <span className="navi-trigger-inn">
-                                <span className="navi-trigger-hamberg-line navi-trigger-hamberg-line1"></span>
-                                <span className="navi-trigger-hamberg-line navi-trigger-hamberg-line2"></span>
-                                <span className="navi-trigger-hamberg-line navi-trigger-hamberg-line3"></span>
-                            </span>
-                        </span>
-
-
-        <div className="navi-logo">
-
-          <div className="logo-wrap">
-            <div id="logo">
-              <a className="logo-a" href="index.html" title="Air Theme">
-                <h1 className="logo-h1 logo-not-show-txt">LotusWare</h1>
-                <img className="logo-image logo-dark" src="img/demo/logo_dark.png" alt="Air Theme" />
-                <span className="logo-light"><img className="logo-image" src="img/demo/logo_light.png" alt="Air Theme" /></span>
-              </a>
-            </div>
-          </div>
-
+  <div id="menu-panel">
+    <div className="menu-panel-inn fullscreen-wrap">
+      <nav id="navi">
+        <div id="navi-wrap" className="menu-navi-wrap">
+          <ul className="menu clearfix">
+            <li id="menu-item-246" className="menu-item"><a href="/">Home</a></li>
+            <li id="menu-item-246" className="menu-item"><a href="/blog">Blog</a></li>
+            <li id="menu-item-256" className="menu-item"><a href="/about">About</a></li>
+            <li id="menu-item-247" className="menu-item"><a href="/contact">Contact</a></li>
+          </ul>
         </div>
-
+      </nav>
+      <div id="menu-panel-bottom" className="container-fluid">
+        <div className="menu-panel-bottom-left col-md-3 col-sm-3 col-xs-3">
+          <div className="search-top-btn-class">
+            <span className="fa fa-search"/>
+            <form className="search_top_form" method="get" action="#">
+              <input type="search" id="s" name="s" className="search_top_form_text" placeholder="Type and Hit Enter"/>
+            </form>
+          </div>
+        </div>
+        <div className="menu-panel-bottom-right col-md-9 col-sm-9 col-xs-9">
+          <div className="socialmeida-mobile">
+            <ul className="socialmeida clearfix">
+              <li className="socialmeida-li">
+                <a title="Facebook" href="https://www.facebook.com/uiueux" className="socialmeida-a">
+                  <span className=""></span> <span className="socialmeida-text">Facebook</span>
+                </a>
+              </li>
+              <li className="socialmeida-li">
+                <a title="Twitter" href="https://twitter.com/uiueux" className="socialmeida-a">
+                  <span className=""></span> <span className="socialmeida-text">Twitter</span>
+                </a>
+              </li>
+              <li className="socialmeida-li">
+                <a title="Behance" href="https://www.behance.net/bwsm" className="socialmeida-a">
+                  <span className=""></span> <span className="socialmeida-text">Behance</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
-
     </div>
-
-  </header>
-
+  </div>
 )
 
 export default Header

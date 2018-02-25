@@ -1148,7 +1148,7 @@ body:not(.ux-mobile) .header-bar-social {
   background-size:0 0;
 }
 .backgroundcliptext .headding-with-bg.slider-headding {
-  background-size: cover; background-attachment: fixed; background-repeat: no-repeat; color: transparent; -webkit-text-fill-color: transparent; background-clip: text; -webkit-background-clip: text;
+  background-size: cover; background-attachment: fixed; background-repeat: no-repeat; color: transparent; -webkit-text-fill-color: transparent; -webkit-background-clip: text;
 }
 body[class*="Safari"] .headding-with-bg.slider-headding,
 body[class*="Safari"] .mask-clip-title .title-wrap-tit,
@@ -2240,7 +2240,7 @@ body.single-portfolio-fullwidth .post-cover ~ #content .gallery-spacing-80.start
   cursor: default;
 }
 .single-portfolio-fullscreen-slider .owl-dot {
-  counter-increment: slides-num; display: inline-block; width: 0; height: 0; margin-right: 5px; background-color: none;
+  counter-increment: slides-num; display: inline-block; width: 0; height: 0; margin-right: 5px; background-color: unset;
 }
 .single-portfolio-fullscreen-slider .owl-dot span {
   display: none;
@@ -2601,7 +2601,7 @@ ol.commentlist {
   margin: 40px 0;
 }
 .paginated-comments-links .page-numbers{
-  float: none; display: 
+  float: none;
 }
 #reply-title-wrap .logged{ 
   opacity:0;  display:inline-block; font-size:12px; height:40px; line-height:40px; padding-left: 25px;
@@ -3323,7 +3323,7 @@ i.medium{ font-size:24px; }
 
 /* Tweets */
 .fullwrap-block .twitter-mod .bird-link {
-  width: 128px; height: 128px; line-height: 128px; background-size: cover; background-repeat: no-repeat; background-image: url(img/twitter.png);
+  width: 128px; height: 128px; line-height: 128px; background-size: cover; background-repeat: no-repeat;
 }
 .fullwrap-block .twitter-mod:before {
   display: none;
@@ -3592,7 +3592,6 @@ body,#wrap-outer,#wrap,#search-overlay,#top-wrap,#main,.separator h4, .carousel-
 /* Selected Text Bg Color */   
 ::selection { background: #F0E8DF; }
 ::-moz-selection { background: #F0E8DF; }
-::-webkit-selection { background: #F0E8DF; }
 
 /* Border Color */ 
 body.ux-bordered,.bordered-top, .bordered-bottom 
