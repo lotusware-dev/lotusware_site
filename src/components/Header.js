@@ -26,7 +26,7 @@ const Header = () => (
           <div className="logo-wrap">
             <div id="logo">
               <a className="logo-a" href="index.html" title="Air Theme">
-                <h1 className="logo-h1 logo-not-show-txt">Air Theme</h1>
+                <h1 className="logo-h1 logo-not-show-txt">LotusWare</h1>
                 <img className="logo-image logo-dark" src="img/demo/logo_dark.png" alt="Air Theme" />
                 <span className="logo-light"><img className="logo-image" src="img/demo/logo_light.png" alt="Air Theme" /></span>
               </a>

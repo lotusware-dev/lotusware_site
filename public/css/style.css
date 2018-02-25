@@ -84,12 +84,14 @@ ol, ul {
 ul{ 
   margin-left:0;
 }
+
 li{ 
   list-style:none
 }
 img {
   max-width: 100%; height: auto;
 }
+
 /* Grid */
 .container-fluid { 
   position:relative; width: 100%; padding-left: 60px; padding-right: 60px;

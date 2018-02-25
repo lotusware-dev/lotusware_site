@@ -1,6 +1,17 @@
 import React from 'react'
 
 const Portfolio = () => (
+
+
+    //Portfolio knows what items are within it
+    //portfolio is responsible for rendering its items
+    //portfolio is going to loop through its items and render its component
+
+    //this.props.items.map((item) => {
+    //  return(
+    //   <PorfolioItem title="first project" image="some image src">
+    //  )
+    // })
   <div className="container-masonry ux-portfolio-spacing-none ux-portfolio-3col ux-has-filter filter-center" data-col="3" data-spacer="0" data-template="intro-above">
 
     <!--Filter-->
