@@ -5,27 +5,25 @@ import {
     Link
 } from 'react-router-dom'
 import './App.css'
+
 import Home from './Home'
 import About from './About'
 import Blog from './blog/Blog'
+import Footer from './components/Footer'
+import Header from './components/Header'
 
 
 
 const App = () => (
     <Router>
         <div>
-            <ul>
-                <li><Link to="/">Home</Link></li>
-                <li><Link to="/about">About</Link></li>
-                <li><Link to="/blog">Blog</Link></li>
-            </ul>
-
-            <hr/>
+       <Header/>
             <div className='container'>
             <Route exact path="/" component={Home}/>
             <Route path="/about" component={About}/>
             <Route path="/blog" component={Blog}/>
             </div>
+        <Footer/>
         </div>
     </Router>
 )

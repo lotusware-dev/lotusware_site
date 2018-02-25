@@ -2,282 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="489d5996-06a6-4dc4-9a41-782646a94324" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Documentation/Run Me.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/.idea/Gravity.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/account.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/cart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/checkout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/contacts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/bootstrap/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/contact-form.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/fonts/ElegantIcons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/elegant-font/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/ion.rangeSlider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/ion.rangeSlider.skinNice.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/jquery.pagepiling.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/jquery.pagepiling.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/fonts/linecons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/linecons/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/about.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/account.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/contact.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-10.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-11.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item-9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio-item.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/post.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/service.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/page/shop.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/remodal-default-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/remodal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/WooCommerce.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/shop/star.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/siliconfolio.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/tipso.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/style.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/typicons/typicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/vc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/wocommerce.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/woocommerce-layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/woocommerce-smallscreen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/css/woocommerce.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/1-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/15.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/16.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/17.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/18.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/1800381.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/19.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/20-1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/20.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/5.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/6.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Cafe-Loyal-Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Coffe-cup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Daily-News-Folded-Mockup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Fabric-Bag-Mockup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Paper-Bag-packaging-Mockup-psd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Paper-Wrap-Wine-Bottle-Mockup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Space_Patterns_jpg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Square-Book.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/The-Faric-bag.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Vinyl-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/Wine-Package-Box-Mockup-vol-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/another-bag.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/arr_l.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/arr_r.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/art2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/authentic-demo-image-130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/bag1-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/bag1-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/bag1-end.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/bicycle-in-blue-room-PZHAAMS.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blanket-on-the-couch-PADZCQ9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/blog9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/book.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/book1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/book2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/book3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/brickdesign-carbone-seta-6x25-amb-living-ambient-b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/business.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/business1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cafe-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cafe1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cafe2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cafe3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cafe4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cafe5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/cb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/craft_bear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/crew.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/f1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/f2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/f3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/f4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/f5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/f6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/g-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/gordon-theme.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/grange-pattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/handz_lineart_final.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/hard_work2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/hardcore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/imagenes-de-Metallica-en-hd13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/isometric_words.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l010.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/l09.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/logo_000.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/logo_fff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/m1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/m2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/m3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/moneybg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/np.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/office-932926_1920.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/onepageheader-1920x1255.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/pattern1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/pattern2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/port1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/pp-bag.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/pp-bag2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/prize.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/room-with-navy-blue-armchair-P4556GF.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/royal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/sep.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/sig.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/signature.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/sorting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/sprite-skin-nice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/start-up-business-team-PCC5YS5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/thats-all.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/the-book.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/two-lamps-in-a-room-P3ZFFFE.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/v1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/v2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/v3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/v4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/v5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/w1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/w3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/w4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/w5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/img/wine-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/accounting.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/bootstrap.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/contact-form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/core.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/custom_plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/gmap3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/html5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/imagesloaded.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/ion.rangeSlider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/isotope.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/jquery-migrate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/jquery-ui-touch-punch.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.pagepiling.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.pagepiling.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/jquery.waitforimages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/mouse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/popper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/price-slider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/remodal.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/slider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/tipso.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/vc_custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/js/widget.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/lightcase/fonts/lightcase.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/lightcase/lightcase.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/lightcase/lightcase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/framework/mailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/lost-password.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item-9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/service.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/shop-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/client/Gravity/shop.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Portfolio/Portfolio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Footer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Header.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.scss" afterPath="$PROJECT_DIR$/src/App.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Home.css" afterPath="$PROJECT_DIR$/src/Home.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Home.js" afterPath="$PROJECT_DIR$/src/Home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Home.scss" afterPath="$PROJECT_DIR$/src/Home.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -294,8 +31,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="550">
+              <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -306,8 +43,8 @@
       <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="88">
+              <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -315,32 +52,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/html/home2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1238">
-              <caret line="477" column="14" lean-forward="false" selection-start-line="114" selection-start-column="11" selection-end-line="477" selection-end-column="14" />
-              <folding>
-                <marker date="1519530491000" expanded="false" signature="2631:2643" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Blog.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blog/Blog.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Home.scss">
+      <file leaf-file-name="Footer.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Footer.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -349,12 +62,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state relative-caret-position="88">
+              <caret line="503" column="8" lean-forward="true" selection-start-line="503" selection-start-column="8" selection-end-line="503" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/html/home2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+              <folding>
+                <marker date="1519561084000" expanded="false" signature="2631:2643" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -362,26 +87,69 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6481">
-              <caret line="501" column="0" lean-forward="false" selection-start-line="501" selection-start-column="0" selection-end-line="501" selection-end-column="0" />
+            <state relative-caret-position="692">
+              <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding>
-                <marker date="1519530282000" expanded="true" signature="2263:2275" ph="..." />
+                <marker date="1519571639000" expanded="false" signature="2259:2271" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <file leaf-file-name="Portfolio.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Portfolio/Portfolio.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1245">
-              <caret line="83" column="4" lean-forward="true" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+            <state relative-caret-position="348">
+              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Header.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Header.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Footer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class</find>
+      <find>Air</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>className</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -391,9 +159,14 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/App.scss" />
+        <option value="$PROJECT_DIR$/src/Home.scss" />
         <option value="$PROJECT_DIR$/src/Home.js" />
+        <option value="$PROJECT_DIR$/src/components/Header.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/Portfolio/Portfolio.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/Footer.js" />
       </list>
     </option>
   </component>
@@ -406,11 +179,11 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="791" />
-    <option name="y" value="25" />
-    <option name="width" value="1694" />
-    <option name="height" value="1251" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="415" />
+    <option name="y" value="112" />
+    <option name="width" value="870" />
+    <option name="height" value="621" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -422,12 +195,14 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -466,14 +241,31 @@
               <item name="lotusware_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="lotusware_site" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lotusware_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lotusware_site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Footer.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="lotusware_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lotusware_site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lotusware_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lotusware_site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="App.scss" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,6 +295,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="489d5996-06a6-4dc4-9a41-782646a94324" name="Default" comment="" />
@@ -515,17 +310,18 @@
       <workItem from="1517171933878" duration="524000" />
       <workItem from="1518125549334" duration="827000" />
       <workItem from="1519528725790" duration="2102000" />
+      <workItem from="1519561766565" duration="4936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6930000" />
+    <option name="totallyTimeSpent" value="11866000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15664062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -554,11 +350,66 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog/Blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <marker date="1519571639000" expanded="false" signature="2259:2271" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/Gravity/service.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6615">
           <caret line="441" column="47" lean-forward="false" selection-start-line="441" selection-start-column="47" selection-end-line="441" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -566,7 +417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="53" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +435,7 @@
         <state relative-caret-position="375">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="20" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -603,7 +453,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <marker date="1519530282000" expanded="true" signature="2263:2275" ph="..." />
+            <marker date="1519571639000" expanded="false" signature="2259:2271" ph="..." />
           </folding>
         </state>
       </provider>
@@ -612,7 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6615">
           <caret line="441" column="47" lean-forward="false" selection-start-line="441" selection-start-column="47" selection-end-line="441" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="53" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +512,7 @@
         <state relative-caret-position="375">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="20" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -683,7 +530,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <marker date="1519530282000" expanded="true" signature="2263:2275" ph="..." />
+            <marker date="1519571639000" expanded="false" signature="2259:2271" ph="..." />
           </folding>
         </state>
       </provider>
@@ -692,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6615">
           <caret line="441" column="47" lean-forward="false" selection-start-line="441" selection-start-column="47" selection-end-line="441" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="53" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,6 +607,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -772,12 +639,12 @@
         <state relative-caret-position="465">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="20" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Home.scss">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -785,38 +652,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="503" column="8" lean-forward="true" selection-start-line="503" selection-start-column="8" selection-end-line="503" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/html/home2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1238">
-          <caret line="477" column="14" lean-forward="false" selection-start-line="114" selection-start-column="11" selection-end-line="477" selection-end-column="14" />
+        <state relative-caret-position="28">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
           <folding>
-            <marker date="1519530491000" expanded="false" signature="2631:2643" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1519561084000" expanded="false" signature="2631:2643" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="550">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Portfolio/Portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -825,19 +734,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6481">
-          <caret line="501" column="0" lean-forward="false" selection-start-line="501" selection-start-column="0" selection-end-line="501" selection-end-column="0" />
+        <state relative-caret-position="692">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding>
-            <marker date="1519530282000" expanded="true" signature="2263:2275" ph="..." />
+            <marker date="1519571639000" expanded="false" signature="2259:2271" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+    <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1245">
-          <caret line="83" column="4" lean-forward="true" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="484">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
