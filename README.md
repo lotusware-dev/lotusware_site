@@ -2,4 +2,4 @@ LotusWare Agency Site
 
 
 Demo Site
-http://gravity-ecommerce.site/html/index.html
+http://themes.uiueux.com/demo/air/html/index.html
