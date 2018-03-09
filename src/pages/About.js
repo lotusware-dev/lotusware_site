@@ -1,17 +1,17 @@
 import React from 'react'
-import './About.css'
+import './About.scss'
 
 
 const About = () => (
 <div className='About'>
-    <div id= "About">
-        {/*<!--Main wrap-->*/}
+    
+       
         <div id="wrap-outer">
 
-           {/* <!-- Main Content Wrap -->*/}
+          
     		<div id="wrap">
 
-                {/*<!-- Main Content : List, text content ... -->*/}
+                
     	        <div id="content">
 
                     <div className="content_wrap_outer">
@@ -20,7 +20,7 @@ const About = () => (
 
                             <div className="pagebuilder-wrap">
 
-                                {/*<!--Fullwidth wrap-->*/}
+                               
                                 <div className="fullwrap_moudle">
 
                                     <div className="row">        
@@ -38,9 +38,9 @@ const About = () => (
 
                                     </div>
 
-                                </div>{/*<!--End fullwrap_moudle-->*/}
+                                </div>
 
-                                {/*<!--Spacer Element-->*/}
+                               
                                 <div className="container-fluid">
 
                                     <div className="row">
@@ -57,9 +57,9 @@ const About = () => (
 
                                     </div>
 
-                                </div>{/*<!--End container-fluid-->*/}
+                                </div>
 
-                                {/*<!--Text Element-->*/}
+                               
                                 <div className="container-fluid">
 
                                     <div className="row">
@@ -78,9 +78,9 @@ const About = () => (
 
                                     </div>
 
-                                </div>{/*<!--End container-fluid-->*/}
+                                </div>
 
-                                {/*<!--Spacer Element-->*/}
+                               
                                 <div className="container-fluid">
 
                                     <div className="row">
@@ -97,10 +97,9 @@ const About = () => (
 
                                     </div>
 
-                                </div>{/*<!--End container-fluid-->*/}
-
+                                </div>
                       
-                                {/*<!--Normal Wrap-->*/}
+                                
                                 <div className="container-fluid">
 
                                     <div className="row">
@@ -119,7 +118,7 @@ const About = () => (
 
                                 </div>
 
-                                {/*<!--Fullwidth wrap-->*/}
+                                
                                 <div className="fullwrap_moudle">
 
                                     <div className="row">
@@ -148,24 +147,24 @@ const About = () => (
 
                                     </div>
 
-                                </div>{/*<!--End fullwrap_moudle-->*/}
+                                </div>
 
-                            </div>{/*<!-- End pagebuilder-wrap-->*/}
+                            </div>
 
-                        </div>{/*<!-- End content_wrap-->*/}
+                        </div>
 
-                    </div>{/*<!-- End content_wrap_outer-->*/}
+                    </div>
 
-                </div>{/*<!--End #content-->*/}
+                </div>
 
                 
-            </div>{/*<!--End #wrap -->*/}  
+            </div>  
 	       
-           <div className="video-overlay modal"><span className="video-close"></span></div>{/*<!--end video-overlay-->*/}
+           
 	  
-        </div>{/*<!--End wrap-outer-->*/}
+        </div>
 
-    </div>
+    
 </div>
            
 )
